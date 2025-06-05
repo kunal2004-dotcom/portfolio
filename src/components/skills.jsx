@@ -55,7 +55,9 @@ return (
                     <ul className='list-disc pl-5'>
                             <li className='font-poppins text-justify'>I have done projects on Machine Learning <a href='https://github.com/kunal2004-dotcom/Car-price-prediction' className='text-blue-500 underline'>Data Science.</a></li>
 
-                            <li className='font-poppins text-justify'>I have done projects on Web Development using Flask and Django.</li>
+                            <li className='font-poppins text-justify'>I have a project on data analyatics:Wine Quality Analyzer <a href='https://github.com/kunal2004-dotcom/WineQualityAnalyzer.git' className='text-blue-500 underline'>Data Analyatics.</a></li>
+
+                            <li className='font-poppins text-justify'>I have a project on data analyatics:Smart Crop Recommendation System <a href='https://github.com/kunal2004-dotcom/smart-crop-recommendation-system-.git' className='text-blue-500 underline'>Data Analyatics.</a></li>
 
                     </ul>
             </div>
