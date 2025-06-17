@@ -15,7 +15,7 @@ const about = () => {
                 <hr className='md:w-44 w-32 md:mb-0 mb-4 h-3 mt-3 md:ml-0 lg:mt-4 bg-gradient-to-r from-[#c580f0ed] to-[#c580f0c8]'></hr>
             </div>
             <div className='md:w-12/12 md:mt-10 '>
-                <h1 className='font-poppins text-justify'>I’m Kunal Bagad, currently a third-year engineering student with a passion for Artificial intelligence and data science engineering. My academic journey has provided me with a solid foundation in skills and I’m eager to apply this knowledge in real-world scenarios.
+                <h1 className='font-poppins text-justify'>I’m Kunal Bagad, currently a Fourth-year engineering student with a passion for Artificial intelligence and data science engineering. My academic journey has provided me with a solid foundation in skills and I’m eager to apply this knowledge in real-world scenarios.
 
 I thrive in collaborative environments and am always looking for opportunities to grow and tackle new challenges. Whether through internships, projects, or coursework, I’m committed to continuous learning and making meaningful contributions to the field of engineering.
 
