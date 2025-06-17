@@ -53,11 +53,14 @@ return (
                     </div>
                     <div className='md:w-12/12 md:mt-10 '>
                     <ul className='list-disc pl-5'>
-                            <li className='font-poppins text-justify'>I have done projects on Machine Learning <a href='https://github.com/kunal2004-dotcom/Car-price-prediction' className='text-blue-500 underline'>Data Science.</a></li>
+                            <li className='font-poppins text-justify'>I have done projects on data Analyatics <a href='https://github.com/kunal2004-dotcom/Car-price-prediction' className='text-blue-500 underline'>Car Price Prediction</a></li>
 
-                            <li className='font-poppins text-justify'>I have a project on data analyatics with Ai&ml:Wine Quality Analyzer <a href='https://github.com/kunal2004-dotcom/WineQualityAnalyzer.git' className='text-blue-500 underline'>Data Analyatics.</a></li>
+                            <li className='font-poppins text-justify'>I have a project on data analyatics with Ai&ml <a href='https://github.com/kunal2004-dotcom/WineQualityAnalyzer.git' className='text-blue-500 underline'>Wine Quality Analyzer</a></li>
 
-                            <li className='font-poppins text-justify'>I have a project on data analyatics:Smart Crop Recommendation System <a href='https://github.com/kunal2004-dotcom/smart-crop-recommendation-system-.git' className='text-blue-500 underline'>Data Analyatics.</a></li>
+                            <li className='font-poppins text-justify'>I have a project on data analyatics with ml<a href='https://github.com/kunal2004-dotcom/smart-crop-recommendation-system-.git' className='text-blue-500 underline'>Smart Crop Recommendation System</a></li>
+                            <li className='font-poppins text-justify'>I have a project on data analyatics with AI<a href='https://github.com/kunal2004-dotcom/supply_chain.git' className='text-blue-500 underline'>Supply Chain Management</a></li>
+                            <li className='font-poppins text-justify'>I have a project on Generative AI<a href='https://github.com/kunal2004-dotcom/Text-to-image.git' className='text-blue-500 underline'>Text to Image Generator</a></li>
+
 
                     </ul>
             </div>
