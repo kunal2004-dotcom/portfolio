@@ -1,9 +1,7 @@
 import React from 'react';
 import { LuHome,LuUser,LuLightbulb,LuLayers, LuPhone,LuLanguages } from "react-icons/lu";
 import { GoDot } from "react-icons/go";
-import { DotLottiePlayer, Controls } from '"C:\Users\acer\Downloads\Main Scene.gif"';
-import '"C:\Users\acer\Downloads\Main Scene.gif"';   
-import Animation from './lottiefiles/ani.lottie'; 
+
 
 
 const about = () => {
