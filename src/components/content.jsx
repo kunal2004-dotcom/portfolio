@@ -21,7 +21,7 @@ const content = () => {
       </div>
       <div className='text-[rgb(15,23,42)] text-center'>
          <h1 className='text-left md:pt-8 text-2xl font-poppins font-normal'>I am a Passionate 
-            <span className='text-left md:pt-8 text-3xl font-semibold font-rubix'> AI <br></br> Engineer.</span>
+            <span className='text-left md:pt-8 text-3xl font-semibold font-rubix'> AI & Data Science  <br></br> Engineer.</span>
          </h1>
       </div>
       <div className="flex md:p-6 pt-4 space-x-2.5 w-full md:pt-8 md:pb-8">
